@@ -8,4 +8,4 @@ To run follow the listed steps
 4. Copy the file 'equipment.php' into your htdocs directory (on mac this would be Applications/MAMP/htdocs)
 5. Go to localhost:8888/equipment.php
 
-Please reach out to Taylor Greiner (tgreiner@leantechniques.com) if you have any questions
+Please reach out to Taylor Greiner (taylor.greiner@gmail.com) if you have any questions
